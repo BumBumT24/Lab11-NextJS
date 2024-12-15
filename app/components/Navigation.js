@@ -22,7 +22,7 @@ export default function Navigation() {
                         <Link href="/community">Foodies Community</Link>
                     </li>
                     <li>
-                        <Link href="/JakasStrona">Dynamic</Link>
+                        <Link href="/meals/JakasStrona">Dynamic</Link>
                     </li>
                 </ul>
             </nav>
